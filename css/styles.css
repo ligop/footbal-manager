@@ -3,9 +3,6 @@ body {
     background-color: #8dc63f;
     font-family: "Arial";
 }
-.clear{
-    clear: both;
-}
 .wrapper {
     max-width: 960px;
     margin: 0 auto;
